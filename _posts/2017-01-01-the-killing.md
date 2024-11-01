@@ -2,8 +2,8 @@
 layout: post
 title: "The Killing"
 author: "Anoop Madhavan"
-categories: memories
-tags: [memories]
+categories: mysteries
+tags: [mysteries]
 image: cuba-1.jpg
 ---
 

@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Myth',  url: 'myth'}
+- {name: 'Myths',  url: 'myths'}
 - {name: 'Men', url: 'men'}
 - {name: 'Monuments',       url: 'monuments'}
 - {name: 'Mysteries',      url: 'mysteries'}
