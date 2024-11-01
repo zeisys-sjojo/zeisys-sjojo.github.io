@@ -2,10 +2,9 @@
 layout: post
 title: "Text Formatting"
 author: "Paul Le"
-categories: monuments
+categories: sample
 tags: [sample]
 image: arctic-1.jpg
-resource: true
 ---
 
 # Markdown Support
