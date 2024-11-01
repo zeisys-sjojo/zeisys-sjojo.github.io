@@ -7,12 +7,12 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Myths',  url: 'myths'}
-- {name: 'Men', url: 'men'}
-- {name: 'Monuments',       url: 'monuments'}
-- {name: 'Mysteries',      url: 'mysteries'}
-- {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'Myths',  url: 'myths', image: 'meda.jpg'}
+- {name: 'Men', url: 'men', image: 'shiva.jpg'}
+- {name: 'Monuments', url: 'monuments', image: 'nalukettu.jpg'}
+- {name: 'Mysteries', url: 'mysteries', image: 'kalaripayattu.jpg'}
+- {name: 'About', url: 'about'}
+- {name: 'Contact', url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
